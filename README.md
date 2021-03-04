@@ -5,7 +5,7 @@ We are soliciting participation in a set of VR-facilitated design activities and
 
 Participating students will have access to a Quest 2 for the week of Spring Break. Through design activities (10-15 minutes each) offered remotely (e.g. in their residence), students will contribute to the design of a programming platform in 3D space and of assistive health care technologies. Participant responses and performance will inform the development of our platforms. We will conduct Zoom-led focus groups/check-in meetings during the week and introduce VR worldbuilding methods.
 
-[imagination.ucsd.edu](imagination.ucsd.edu) | [insight.ucsd.edu](insight.ucsd.edu) | [ubicomp.ucsd.edu](ubicomp.ucsd.edu/)
+[Hardware](#hardware-pickup) | [Schedule](#schedule) | [Organizers](#organizers) | [Participating Labs](#labs)
 
 # Hardware Pickup
 
@@ -38,4 +38,6 @@ __Friday 3/25__
 - Ying Wu
 - Patrick Coleman
 
-[Link](url) and ![Image](src)
+# Labs
+
+[imagination.ucsd.edu](imagination.ucsd.edu) | [insight.ucsd.edu](insight.ucsd.edu) | [ubicomp.ucsd.edu](ubicomp.ucsd.edu/)
