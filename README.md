@@ -35,7 +35,7 @@ __Friday 3/25__
 
 - Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
 - Patrick Coleman [patrickcoleman.org](https://www.patrickcoleman.org/)
-- Robert Twomey, Ph.D. [roberttwomey.com](https://roberttwomey.com) [cohab-lab.net](https://cohab-lab.net)
+- Robert Twomey, Ph.D. [roberttwomey.com](https://roberttwomey.com) [cohab-lab.net](http://cohab-lab.net)
 - Ying Wu, Ph.D. [insight.ucsd.edu](https://insight.ucsd.edu)
 
 # Participating Labs
