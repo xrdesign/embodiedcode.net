@@ -9,7 +9,8 @@ Participating students will have access to a Quest 2 for the week of Spring Brea
 
 # Hardware Pickup
 
-- We will distribute Oculus Quest 2 headsets to participating students on Sunday March 21. 
+- We will distribute Oculus Quest 2 headsets to participating students on Sunday 3/21. Details TBD
+- We will collect the headsets on Monday 3/29.
 
 # Schedule
 
