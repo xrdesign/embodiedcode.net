@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# XR Design Studies With Oculus Quest 2
+__Spring Break Research Experience 2021__
 
-You can use the [editor on GitHub](https://github.com/xrdesign/xrdesign.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are soliciting participation in a set of VR-facilitated design activities and field studies from March 22-26 to support XR/AR projects at the Swartz Center for Computational Neuroscience, the Clarke Center for Human Imagination, and the Human-Centered and Ubiquitous Computing Lab.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Participating students will have access to a Quest 2 for the week of Spring Break. Through design activities (10-15 minutes each) offered remotely (e.g. in their residence), students will contribute to the design of a programming platform in 3D space and of assistive health care technologies. Participant responses and performance will inform the development of our platforms. We will conduct Zoom-led focus groups/check-in meetings during the week and introduce VR worldbuilding methods.
 
-### Markdown
+[imagination.ucsd.edu](imagination.ucsd.edu) | [insight.ucsd.edu](insight.ucsd.edu) | [ubicomp.ucsd.edu](ubicomp.ucsd.edu/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Design Activities
 
-```markdown
-Syntax highlighted code block
+- List instructions/programs here
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Organizers
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- Tommy Sharkey
+- Robert Twomey
+- Ying Wu
+- Patrick Coleman
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xrdesign/xrdesign.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
