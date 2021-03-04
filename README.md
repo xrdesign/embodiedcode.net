@@ -11,7 +11,7 @@ Participating students will have access to a Quest 2 for the week of Spring Brea
 
 - We will distribute Oculus Quest 2 headsets to participating students on Sunday March 21. 
 
-# Design Activities
+# Schedule
 
 __Monday 3/22__
 - activities
