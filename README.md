@@ -17,21 +17,64 @@ We will conduct Zoom-led focus groups/check-in meetings during the week and intr
 # Schedule
 
 __Monday 3/22__
-- activities
-- and more activities
 
-__Tuesday 3/23__
-- activites
+Morning (in person)
+- Pickup headsets from campus
+  - Collect PID, verify ID
+  - Each quest has a serial number
+  - fill out this form
 
-__Wednesday 3/23__
-- activities
-- and more activities
+Evening (zoom+altspace)
+- Altspace Hang and VR Game Night (start in zoom)
+  - Start in zoom
+  - Hang in Altspace
+ 
+__Tuesday (Sketch Studies)__
 
-__Thursday 3/24__
-- activites
+Morning (zoom)
+- Orientation
+  - How to get the PDF instructions/prompt for the studies
+  - How to record videos
+  - How to upload/email videos
+  - How to upload/email exported Gravity Sketch
+- Research tasks: 
+  - Talk through the first set of research activities
 
-__Friday 3/25__
-- activities
+__Wednesday (VR Worldbuilding)__
+Morning (Altspace VR)
+- VR Worldbuilding
+  - Tour Afterville (11am)
+  - Discuss VR worldbuilding with Patrick Coleman.
+- Study Checkin (zoom)
+  - noon Check in on study progress, questions (zoom)
+
+Evening (zoom)
+- Clarke Center Talk
+  - Cory Doctorow, Kali Wallace, and Karen Osborne (Zoom)
+
+__Thursday (Custom App Studies)__
+Morning (zoom)
+- Debrief on Sketching studies
+- Orientation (App Studies)
+  - How to install our apps to the headset
+  - How to use hand tracking
+  - How to record video
+
+Evening
+- participants run a second set of studies on their own time
+
+
+__Friday__
+- Potential last check in and add more studies
+
+__Saturday/Sunday__
+- Free time with VR for participants.
+
+__Monday 3/29__
+TBD
+- Equipment pickup. 
+  - Will do a poll to determine afternoon time
+- Students return headsets on campus
 
 # Organizers
 
