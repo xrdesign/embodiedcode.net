@@ -71,8 +71,7 @@ Evening
 - Free time with VR for participants.
 
 ## Monday 3/29
-TBD
-- Equipment pickup. 
+- Equipment drop off (in person). Time TBD
   - Will do a poll to determine afternoon time
 - Students return headsets on campus
 
