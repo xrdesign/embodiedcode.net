@@ -63,8 +63,9 @@ Morning (zoom)
 Evening
 - participants run a second set of studies on their own time
 
-
 ## Friday
+Morning (zoom) 
+- Debrief on App studies. 
 - Potential last check in and add more studies
 
 ## Saturday/Sunday
