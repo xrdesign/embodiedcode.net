@@ -16,7 +16,7 @@ We will conduct Zoom-led focus groups/check-in meetings during the week and intr
 
 # Schedule
 
-__Monday 3/22__
+## Monday 3/22
 
 Morning (in person)
 - Pickup headsets from campus
@@ -29,7 +29,7 @@ Evening (zoom+altspace)
   - Start in zoom
   - Hang in Altspace
  
-__Tuesday (Sketch Studies)__
+## Tuesday (Sketch Studies)
 
 Morning (zoom)
 - Orientation
@@ -40,7 +40,7 @@ Morning (zoom)
 - Research tasks: 
   - Talk through the first set of research activities
 
-__Wednesday (VR Worldbuilding)__
+## Wednesday (VR Worldbuilding)
 Morning (Altspace VR)
 - VR Worldbuilding
   - Tour Afterville (11am)
@@ -52,7 +52,7 @@ Evening (zoom)
 - Clarke Center Talk
   - Cory Doctorow, Kali Wallace, and Karen Osborne (Zoom)
 
-__Thursday (Custom App Studies)__
+## Thursday (Custom App Studies)
 Morning (zoom)
 - Debrief on Sketching studies
 - Orientation (App Studies)
@@ -64,13 +64,13 @@ Evening
 - participants run a second set of studies on their own time
 
 
-__Friday__
+## Friday
 - Potential last check in and add more studies
 
-__Saturday/Sunday__
+## Saturday/Sunday
 - Free time with VR for participants.
 
-__Monday 3/29__
+## Monday 3/29
 TBD
 - Equipment pickup. 
   - Will do a poll to determine afternoon time
