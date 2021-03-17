@@ -16,7 +16,7 @@ We will conduct Zoom-led focus groups/check-in meetings during the week and intr
 
 # Schedule
 
-## Monday 3/22
+## Monday 3/22 (Orientation) 
 
 Morning (in person)
 - Pickup headsets from campus
@@ -63,15 +63,15 @@ Morning (zoom)
 Evening
 - participants run a second set of studies on their own time
 
-## Friday
+## Friday (Debrief)
 Morning (zoom) 
 - Debrief on App studies. 
 - Potential last check in and add more studies
 
-## Saturday/Sunday
+## Saturday/Sunday (Free Time)
 - Free time with VR for participants.
 
-## Monday 3/29
+## Monday 3/29 (Drop Off)
 - Equipment drop off (in person). Time TBD
   - Will do a poll to determine afternoon time
 - Students return headsets on campus
