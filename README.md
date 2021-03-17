@@ -11,7 +11,7 @@ We will conduct Zoom-led focus groups/check-in meetings during the week and intr
 
 # Hardware Pickup
 
-- We will distribute Oculus Quest 2 headsets to participating students on Sunday 3/21. Details TBD
+- We will distribute Oculus Quest 2 headsets to participating students on Monday 3/22. Details TBD
 - We will collect the headsets on Monday 3/29.
 
 # Schedule
