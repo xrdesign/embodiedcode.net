@@ -15,7 +15,7 @@ We will conduct Zoom-led focus groups/check-in meetings during the week and intr
 - We will collect the headsets on Monday 3/29.
 
 # Schedule
-
+view studies [here](/Studies.md)
 ## Monday 3/22 (Orientation) 
 
 Morning (in person)
