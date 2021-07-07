@@ -98,10 +98,10 @@ Morning (zoom)
 -->
 # Organizers
 
-- Amy Eguchi [https://eds.ucsd.edu/discover/people/faculty/eguchi.html](website)
+- Amy Eguchi [UCSD](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
 - Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
-- Monica Sweet [https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation](UCSD CREATE)
-- Robert Twomey [roberttwomey.com](https://roberttwomey.com) [cohab-lab.net](http://cohab-lab.net)
+- Monica Sweet [UCSD CREATE](https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation)
+- Robert Twomey [roberttwomey.com](https://roberttwomey.com)
 - Timothy Wood [fishuyo.com](http://fishuyo.com/)
 - Ying Wu [insight.ucsd.edu](https://insight.ucsd.edu)
 
