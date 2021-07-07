@@ -22,8 +22,11 @@ hands-on break-out session for participants with VR headsets.
 # Schedule
 
 11:00am - Intro/Theories of Embodiment (talks in main room)
+
 11:50-noon - break
+
 12:00-12:40 - Hands-On Demos and Focus Groups (breakout rooms)
+
 12:40-1:00pm - Whole Group Discussion (whole group in main room)
 
 
