@@ -101,6 +101,7 @@ Morning (zoom)
 - Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
 - Patrick Coleman [patrickcoleman.org](https://www.patrickcoleman.org/)
 - Robert Twomey, Ph.D. [roberttwomey.com](https://roberttwomey.com) [cohab-lab.net](http://cohab-lab.net)
+- Timothy Wood, Ph.D. [fishuyo.com](http://fishuyo.com/)
 - Ying Wu, Ph.D. [insight.ucsd.edu](https://insight.ucsd.edu)
 
 # Participating Labs
