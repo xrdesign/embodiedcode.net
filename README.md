@@ -1,5 +1,5 @@
 # Exploring Virtual Reality and Embodied Computational Reasoning
-## An ICER 2021 Workshop ([https://icer2021.acm.org/info/co-located-workshops](link))
+## An ICER 2021 Workshop ([link](https://icer2021.acm.org/info/co-located-workshops))
 
 Date: Saturday, August 14, 11:00AM - 1PM PDT
 
