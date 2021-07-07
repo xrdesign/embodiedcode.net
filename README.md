@@ -1,5 +1,22 @@
-# XR Design Studies With Oculus Quest 2
-__UCSD Spring Break Research Experience 2021__
+# ICER 2021 Workshop - Exploring Virtual Reality and Embodied Computational Reasoning
+
+The increasing sophistication and availability of Augmented and Virtual Reality (AR/VR) 
+technologies wield the potential to transform how we teach and learn computational concepts and 
+coding. This workshop examines how AR/VR can be leveraged in computer science (CS) 
+education within the context of embodied learning. It has been theorized that abstract 
+computational concepts, such as data, operators, and loops, are grounded in embodied 
+representations that arise from our sensorimotor experience of the physical world. For instance, 
+researchers have shown that when CS students describe algorithms, conditionals, and other 
+computational structures, they frequently gesture in ways that suggest they are conceptualizing 
+interactions with tangible objects. Can learning to code become a more intuitive process if lessons 
+take into account these types of embodied conceptual phenomena? This two-hour workshop 
+explores 1) theories of embodiment and 2) new and existing tools and practices that support 
+embodied CS learning – ranging from Papert’s LOGO turtles to a preview of an innovative 3D 
+spatial coding platform for AR/VR under development by our group. Other open-source and 
+commercially available resources will also be examined through streamed video demos and a 
+hands-on break-out session for participants with VR headsets.
+
+<!--
 
 We are soliciting participation in a set of VR-facilitated design activities and field studies from March 22-26 to support XR/AR projects at the Swartz Center for Computational Neuroscience, the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu), and the [Human-Centered and Ubiquitous Computing Lab](https://ubicomp.ucsd.edu/).
 
@@ -75,7 +92,7 @@ Morning (zoom)
 - Equipment drop off (in person). Time TBD
   - Will do a poll to determine afternoon time
 - Students return headsets on campus
-
+-->
 # Organizers
 
 - Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
