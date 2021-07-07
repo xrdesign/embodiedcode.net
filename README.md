@@ -19,6 +19,14 @@ spatial coding platform for AR/VR under development by our group. Other open-sou
 commercially available resources will also be examined through streamed video demos and a 
 hands-on break-out session for participants with VR headsets.
 
+# Schedule
+
+11:00am - Intro/Theories of Embodiment (talks in main room)
+11:50-noon - break
+12:00-12:40 - Hands-On Demos and Focus Groups (breakout rooms)
+12:40-1:00pm - Whole Group Discussion (whole group in main room)
+
+
 <!--
 
 We are soliciting participation in a set of VR-facilitated design activities and field studies from March 22-26 to support XR/AR projects at the Swartz Center for Computational Neuroscience, the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu), and the [Human-Centered and Ubiquitous Computing Lab](https://ubicomp.ucsd.edu/).
