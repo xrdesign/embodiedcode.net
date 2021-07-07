@@ -1,5 +1,5 @@
 # Exploring Virtual Reality and Embodied Computational Reasoning
-__A workshop for ICER 2021 ([link](https://icer2021.acm.org/info/co-located-workshops))__
+__A workshop for [ICER 2021](https://icer2021.acm.org/info/co-located-workshops)__
 
 Date: Saturday, August 14, 11:00AM - 1PM PDT
 
@@ -106,7 +106,7 @@ Morning (zoom)
 -->
 # Organizers
 
-- Amy Eguchi [UCSD](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
+- Amy Eguchi [UCSD EDS](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
 - Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
 - Monica Sweet [UCSD CREATE](https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation)
 - Robert Twomey [roberttwomey.com](https://roberttwomey.com)
