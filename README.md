@@ -98,11 +98,12 @@ Morning (zoom)
 -->
 # Organizers
 
+- Amy Eguchi [https://eds.ucsd.edu/discover/people/faculty/eguchi.html](website)
 - Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
-- Patrick Coleman [patrickcoleman.org](https://www.patrickcoleman.org/)
-- Robert Twomey, Ph.D. [roberttwomey.com](https://roberttwomey.com) [cohab-lab.net](http://cohab-lab.net)
-- Timothy Wood, Ph.D. [fishuyo.com](http://fishuyo.com/)
-- Ying Wu, Ph.D. [insight.ucsd.edu](https://insight.ucsd.edu)
+- Monica Sweet [https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation](UCSD CREATE)
+- Robert Twomey [roberttwomey.com](https://roberttwomey.com) [cohab-lab.net](http://cohab-lab.net)
+- Timothy Wood [fishuyo.com](http://fishuyo.com/)
+- Ying Wu [insight.ucsd.edu](https://insight.ucsd.edu)
 
 # Participating Labs
 
