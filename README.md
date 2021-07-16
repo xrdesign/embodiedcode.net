@@ -17,18 +17,49 @@ explores 1) theories of embodiment and 2) new and existing tools and practices t
 embodied CS learning – ranging from Papert’s LOGO turtles to a preview of an innovative 3D 
 spatial coding platform for AR/VR under development by our group. Other open-source and 
 commercially available resources will also be examined through streamed video demos and a 
-hands-on break-out session for participants with VR headsets.
+hands-on break-out session for participants.
 
 # Schedule
 
-11:00am - Intro/Theories of Embodiment (talks in main room)
+11:00am - Welcome
 
-11:50-noon - break
+11:05-11:30 - Intro talk on Theories of Embodiment and Visual Coding Paradigms(talks in main room)
 
-12:00-12:40 - Hands-On Demos and Focus Groups (breakout rooms)
+11:30-11:50 - Breakout 1 - Discussions (breakout rooms)
 
-12:40-1:00pm - Whole Group Discussion (whole group in main room)
+11:50-noon - Reconvene the whole group. Reports from breakout sessions. (main room)
 
+12:00-12:15 - Introduce Hands-on activities (main room)
+
+12:15-12:45 - Breakout 2 - Demonstrations and Focus Groups (breakout rooms)
+
+12:45-1:00pm - Reconvene with whole group. (whole group in main room)
+
+# Activities
+
+## Intro Talks
+- (post talk slides here)
+- end our talk with the questions for the breakout session.
+
+## Breakout Session 1 - Discussions
+- Workshop participants introduce themselves.
+  - (through physical activity)
+- As a group, address workshop organizer questions:
+  - physical/visual/gestural metaphors for code
+  - (pull more questions from CS educator interviews)
+  - record responses in spreadsheet or google form
+- Choose a participant to report back to main room.
+
+## Breakout Session 2 - Hands On Activities
+- (brainstorming design tasks)
+- demonstrate our work through videos
+  - captures of current platform
+  - key clips from SBRE study
+    - (student who did color coding)
+    - (student who made switch/case statement as circular hub with radiating spokes)  
+- lead design / hands-on / conceptual activity
+  - store/submit/capture results
+- Choose a participant to report back to main room.
 
 <!--
 
