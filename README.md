@@ -149,4 +149,4 @@ Morning (zoom)
 
 # Participating Labs
 
-[imagination.ucsd.edu](imagination.ucsd.edu) | [insight.ucsd.edu](insight.ucsd.edu) | [ubicomp.ucsd.edu](ubicomp.ucsd.edu/)
+[imagination.ucsd.edu](http://imagination.ucsd.edu) | [insight.ucsd.edu](http://insight.ucsd.edu) | [ubicomp.ucsd.edu](http://ubicomp.ucsd.edu/)
