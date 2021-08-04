@@ -37,6 +37,8 @@ hands-on break-out session for participants.
 
 # Activities
 
+__[NOTE this workshop]__
+
 [Activity Worksheet](https://docs.google.com/spreadsheets/d/1gu3POsh9EeSA69VAOoYccFEpKDbhkg8W2MC4S22liRg/edit?usp=sharing)
 
 ## Intro Talks
