@@ -37,6 +37,8 @@ hands-on break-out session for participants.
 
 # Activities
 
+[Activity Worksheet](https://docs.google.com/spreadsheets/d/1gu3POsh9EeSA69VAOoYccFEpKDbhkg8W2MC4S22liRg/edit?usp=sharing)
+
 ## Intro Talks
 - (post talk slides here)
 - end our talk with the questions for the breakout session.
@@ -50,13 +52,17 @@ hands-on break-out session for participants.
   - record responses in spreadsheet or google form
 - Choose a participant to report back to main room.
 
-## Breakout Session 2 - Hands On Activities
-- (brainstorming design tasks)
+## Introduce Hands-On Session
+
 - demonstrate our work through videos
   - captures of current platform
   - key clips from SBRE study
     - (student who did color coding)
     - (student who made switch/case statement as circular hub with radiating spokes)  
+
+
+## Breakout Session 2 - Hands On Activities
+- (brainstorming design tasks)
 - lead design / hands-on / conceptual activity
   - store/submit/capture results
 - Choose a participant to report back to main room.
