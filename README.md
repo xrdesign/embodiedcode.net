@@ -23,9 +23,9 @@ hands-on break-out session for participants.
 
 11:00am - Welcome
 
-11:05-11:30 - Intro talk on Theories of Embodiment and Visual Coding Paradigms(talks in main room)
+11:05-11:20 - Intro talk on Theories of Embodiment and Visual Coding Paradigms(talks in main room)
 
-11:30-11:50 - Breakout 1 - Discussions (breakout rooms)
+11:20-11:50 - Breakout 1 - Discussions (breakout rooms)
 
 11:50-noon - Reconvene the whole group. Reports from breakout sessions. (main room)
 
