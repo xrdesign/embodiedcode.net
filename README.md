@@ -37,37 +37,32 @@ hands-on break-out session for participants.
 
 # Activities
 
-__[NOTE this workshop]__
+__[NOTE ON PHYSICALITY AND NONJUDGMENT - This work requires... Timothy ]__
 
 [Activity Worksheet](https://docs.google.com/spreadsheets/d/1gu3POsh9EeSA69VAOoYccFEpKDbhkg8W2MC4S22liRg/edit?usp=sharing)
 
-## Intro Talks
-- (post talk slides here)
-- end our talk with the questions for the breakout session.
+## Talks Part 1 - 
+- [Slides](https://docs.google.com/presentation/d/1EiFxeoG4nPSNgYyajG4uPY1_aq41tuBsff3-1wqK73s/edit?usp=sharing)
+- Introduce Breakout Session 1
 
 ## Breakout Session 1 - Discussions
-- Workshop participants introduce themselves.
-  - (through physical activity)
-- As a group, address workshop organizer questions:
-  - physical/visual/gestural metaphors for code
-  - (pull more questions from CS educator interviews)
-  - record responses in spreadsheet or google form
-- Choose a participant to report back to main room.
+This part is focused on how we use bodies, in teaching, and how we use bodies in learning environments.
+A. Introductory, embodied hello (5 minutes)
+B. As a group, address questions on the following page, and record your responses on the tab for your group (25 minutes)
+C. Nominate a presenter to present results in main room (1 minute)
 
-## Introduce Hands-On Session
+## Reconvene - Discussions
+Whole group discussion of topics from Breakout 1
 
-- demonstrate our work through videos
-  - captures of current platform
-  - key clips from SBRE study
-    - (student who did color coding)
-    - (student who made switch/case statement as circular hub with radiating spokes)  
-
+## Talks Part 2: Designing Embodied Coding Platforms
+- [Slides](https://docs.google.com/presentation/d/1EiFxeoG4nPSNgYyajG4uPY1_aq41tuBsff3-1wqK73s/edit?usp=sharing)
+- Introduce Breakout Session 2
 
 ## Breakout Session 2 - Hands On Activities
-- (brainstorming design tasks)
-- lead design / hands-on / conceptual activity
-  - store/submit/capture results
-- Choose a participant to report back to main room.
+
+This part is focused on brainstorming meaningful designs, metaphors, and gestures for embodied coding interfaces.
+A. Design prompts and record responses (video and drawing) (30 minutes)
+B. Nominate a presenter to present results in main room (1 minute)
 
 <!--
 
