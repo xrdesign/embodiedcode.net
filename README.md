@@ -41,7 +41,7 @@ __[NOTE ON PHYSICALITY AND NONJUDGMENT - This work requires... Timothy ]__
 
 [Activity Worksheet](https://docs.google.com/spreadsheets/d/1gu3POsh9EeSA69VAOoYccFEpKDbhkg8W2MC4S22liRg/edit?usp=sharing)
 
-## Talks Part 1 - 
+## Talks Part 1: Theories of Embodiment
 - [Slides](https://docs.google.com/presentation/d/1EiFxeoG4nPSNgYyajG4uPY1_aq41tuBsff3-1wqK73s/edit?usp=sharing)
 - Introduce Breakout Session 1
 
