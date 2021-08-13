@@ -157,4 +157,4 @@ Morning (zoom)
 
 # Participating Labs
 
-[imagination.ucsd.edu](http://imagination.ucsd.edu) | [insight.ucsd.edu](http://insight.ucsd.edu) | [ubicomp.ucsd.edu](http://ubicomp.ucsd.edu/)
+[imagination.ucsd.edu](http://imagination.ucsd.edu) | [insight.ucsd.edu](http://insight.ucsd.edu) | [ubicomp.ucsd.edu](http://ubicomp.ucsd.edu/) | [cohab-lab.net](http://cohab-lab.net)
