@@ -48,11 +48,9 @@ __[NOTE ON PHYSICALITY AND NONJUDGMENT - This work requires... Timothy ]__
 ## Breakout Session 1 - Discussions
 This part is focused on how we use bodies, in teaching, and how we use bodies in learning environments.
 
-A. Introductory, embodied hello (5 minutes)
-
-B. As a group, address questions on the following page, and record your responses on the tab for your group (25 minutes)
-
-C. Nominate a presenter to present results in main room (1 minute)
+- A. Introductory, embodied hello (5 minutes)
+- B. As a group, address questions on the following page, and record your responses on the tab for your group (25 minutes)
+- C. Nominate a presenter to present results in main room (1 minute)
 
 ## Reconvene - Discussions
 Whole group discussion of topics from Breakout 1
@@ -65,9 +63,8 @@ Whole group discussion of topics from Breakout 1
 
 This part is focused on brainstorming meaningful designs, metaphors, and gestures for embodied coding interfaces.
 
-A. Design prompts and record responses (video and drawing) (30 minutes)
-
-B. Nominate a presenter to present results in main room (1 minute)
+- A. Design prompts and record responses (video and drawing) (30 minutes)
+- B. Nominate a presenter to present results in main room (1 minute)
 
 <!--
 
