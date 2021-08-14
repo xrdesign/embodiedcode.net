@@ -3,7 +3,7 @@ __A workshop for [ICER 2021](https://icer2021.acm.org/info/co-located-workshops)
 
 Date: Saturday, August 14, 11:00AM - 1PM PDT
 
-Zoom link: https://unl.zoom.us/j/96162609185
+Zoom link: [https://unl.zoom.us/j/96162609185](https://unl.zoom.us/j/96162609185)
 
 The increasing sophistication and availability of Augmented and Virtual Reality (AR/VR) 
 technologies wield the potential to transform how we teach and learn computational concepts and 
