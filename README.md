@@ -37,7 +37,7 @@ hands-on break-out session for participants.
 
 # Activities
 
-__[NOTE ON PHYSICALITY AND NONJUDGMENT - This work requires... Timothy ]__
+__[NOTE: Please find a comfortable place to zoom where you can move freely. Our hands on activities require physical gestures, demonstrating things for peers via video.]__
 
 [Activity Worksheet](https://docs.google.com/spreadsheets/d/1gu3POsh9EeSA69VAOoYccFEpKDbhkg8W2MC4S22liRg/edit?usp=sharing)
 
