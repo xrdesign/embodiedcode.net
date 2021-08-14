@@ -21,19 +21,19 @@ hands-on break-out session for participants.
 
 # Schedule
 
-11:00am - Welcome
+11:00-11:05 - Welcome
 
-11:05-11:20 - Intro talk on Theories of Embodiment and Visual Coding Paradigms(talks in main room)
+11:05-11:20 - Talks 1: Theories of Embodiment (talks in main room)
 
-11:20-11:50 - Breakout 1 - Discussions (breakout rooms)
+11:20-11:50 - Breakout 1 - Introductions and Discussions (breakout rooms)
 
-11:50-noon - Reconvene the whole group. Reports from breakout sessions. (main room)
+11:50-12:00 - Reconvene the whole group. Reports from breakout sessions. (main room)
 
-12:00-12:15 - Introduce Hands-on activities (main room)
+12:00-12:15 - Talks 2: Designing Embodied Coding Platforms (main room)
 
-12:15-12:45 - Breakout 2 - Demonstrations and Focus Groups (breakout rooms)
+12:15-12:45 - Breakout 2 - Design Activities (breakout rooms)
 
-12:45-1:00pm - Reconvene with whole group. (whole group in main room)
+12:45-01:00 - Reconvene with whole group. (whole group in main room)
 
 # Activities
 
@@ -45,7 +45,7 @@ __[NOTE: Please find a comfortable place to zoom where you can move freely. Our 
 - [Slides](https://docs.google.com/presentation/d/1EiFxeoG4nPSNgYyajG4uPY1_aq41tuBsff3-1wqK73s/edit?usp=sharing)
 - Introduce Breakout Session 1
 
-## Breakout Session 1 - Discussions
+## Breakout Session 1 - Introductions and Discussions
 This part is focused on how we use bodies, in teaching, and how we use bodies in learning environments.
 
 - A. Introductory, embodied hello (5 minutes)
@@ -59,7 +59,7 @@ Whole group discussion of topics from Breakout 1
 - [Slides](https://docs.google.com/presentation/d/1EiFxeoG4nPSNgYyajG4uPY1_aq41tuBsff3-1wqK73s/edit?usp=sharing)
 - Introduce Breakout Session 2
 
-## Breakout Session 2 - Hands On Activities
+## Breakout Session 2 - Design Activities
 
 This part is focused on brainstorming meaningful designs, metaphors, and gestures for embodied coding interfaces.
 
