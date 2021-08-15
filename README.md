@@ -21,6 +21,10 @@ spatial coding platform for AR/VR under development by our group. Other open-sou
 commercially available resources will also be examined through streamed video demos and a 
 hands-on break-out session for participants.
 
+# Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6fajXCvMUmA" title="ICER Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 # Schedule
 
 11:00-11:05 - Welcome
