@@ -23,7 +23,7 @@ hands-on break-out session for participants.
 
 # Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6fajXCvMUmA" title="ICER Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lcpFvR3AXTA" title="ICER Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 # Schedule
 
