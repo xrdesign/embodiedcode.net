@@ -162,4 +162,4 @@ Morning (zoom)
 
 ----
 
-This work is supported by the National Science Foundation under [Award No. 2017042](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
+This work is supported by the National Science Foundation under [Grant #2017042](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
