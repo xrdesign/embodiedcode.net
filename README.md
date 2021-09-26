@@ -159,3 +159,7 @@ Morning (zoom)
 # Participating Labs
 
 [imagination.ucsd.edu](http://imagination.ucsd.edu) | [insight.ucsd.edu](http://insight.ucsd.edu) | [ubicomp.ucsd.edu](http://ubicomp.ucsd.edu/) | [cohab-lab.net](http://cohab-lab.net)
+
+----
+
+This work is supported by the National Science Foundation under [Award No. 2017042](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
