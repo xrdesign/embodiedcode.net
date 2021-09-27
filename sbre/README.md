@@ -86,3 +86,7 @@ Morning (zoom)
 # Participating Labs
 
 [imagination.ucsd.edu](imagination.ucsd.edu) | [insight.ucsd.edu](insight.ucsd.edu) | [ubicomp.ucsd.edu](ubicomp.ucsd.edu/)
+
+---
+
+This work is supported by the National Science Foundation under [Grant #2017042](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
