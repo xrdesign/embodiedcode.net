@@ -30,15 +30,15 @@ learning to code become a more intuitive process.
 - Study: [_Spring Break Research Experience_](sbre/README.md), UC San Diego, March 2021
 
 # Team
-- Amy Eguchi [UCSD EDS](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
-- Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
-- Monica Sweet [UCSD CREATE](https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation)
-- Robert Twomey [roberttwomey.com](https://roberttwomey.com)
-- Timothy Wood [fishuyo.com](http://fishuyo.com/)
 - Ying Wu [insight.ucsd.edu](https://insight.ucsd.edu)
+- Robert Twomey [roberttwomey.com](https://roberttwomey.com)
+- Monica Sweet [UCSD CREATE](https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation)
+- Timothy Wood [fishuyo.com](http://fishuyo.com/)
+- Tommy Sharkey [tlsharkey.com](https://www.tlsharkey.com/)
+- Amy Eguchi [UCSD EDS](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
 
 # Contact
-To learn more, contact PI Ying Wu at [yingchoon@gmail.com](mailto:yingchoon@gmail.com)
+To learn more, contact PI Ying Wu at [ycwu@ucsd.edu](mailto:ycwu@ucsd.edu)
 
 # Participating Labs
 
