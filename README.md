@@ -19,8 +19,8 @@ how a coding platform that supports these types of embodied conceptual phenomena
 learning to code become a more intuitive process.
 
 # Workshops, Presentations, Papers
-- [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/Readme.md), Workshop, ICER 2021, Saturday August 14, 2021
-- [_Spring Break Research Experience_](sbre/Readme.md), UC San Diego, March 2021
+- [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md), Workshop, ICER 2021, Saturday August 14, 2021
+- [_Spring Break Research Experience_](sbre/README.md), UC San Diego, March 2021
 
 # Team
 - Amy Eguchi [UCSD EDS](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
