@@ -1,5 +1,5 @@
 ![Image](assets/xrdesign_logo.png)
-# Embodied Code
+# Description
 
 The increasing sophistication and availability of Augmented and Virtual Reality
 (AR/VR) technologies wield the potential to transform how we teach and learn computational
@@ -18,6 +18,10 @@ demonstrating sorting algorithms with a deck of cards or the transfer of informa
 functions by throwing paper airplanes. Our long-term research aims center on the question of
 how a coding platform that supports these types of embodied conceptual phenomena can make
 learning to code become a more intuitive process.
+
+# Tools
+
+[Coming Soon]
 
 # Workshops, Presentations, Papers
 - [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md), Workshop, ICER 2021, Saturday August 14, 2021
