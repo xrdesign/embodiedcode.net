@@ -1,5 +1,6 @@
 # logo: assets/xrdesign_logo_text.png
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 # theme: jekyll-theme-minima
 
 title: "Embodied Code"
