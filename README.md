@@ -20,6 +20,7 @@ learning to code become a more intuitive process.
 
 # Workshops, Presentations, Papers
 - [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md), Workshop, ICER 2021, Saturday August 14, 2021
+- [_Embodied Coding in Augmented Reality_](https://videohall.com/p/2000), Video, 2021 NSF STEM for All Video Showcase
 - Poster, 13th International Conference on Computer Supported Education, ACM CSEDU 2021, 23-25 April, 2021
 - [_Spring Break Research Experience_](sbre/README.md), UC San Diego, March 2021
 
