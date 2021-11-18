@@ -34,7 +34,7 @@ learning to code become a more intuitive process.
 - Ying Wu [insight.ucsd.edu](https://insight.ucsd.edu)
 
 # Contact
-You can reach PI Ying Wu at [yingchoon@gmail.com](mailto:yingchoon@gmail.com)
+To learn more, contact PI Ying Wu at [yingchoon@gmail.com](mailto:yingchoon@gmail.com)
 
 # Participating Labs
 
