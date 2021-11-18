@@ -4,5 +4,12 @@
 @import "";
 
 header {
-  float: none;
+    padding-right: 320px;
+
+}
+
+header, section, footer {
+    float: none;
+    position: static;
+    width: auto;
 }
