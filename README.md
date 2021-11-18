@@ -33,7 +33,7 @@ learning to code become a more intuitive process.
 - Ying Wu [insight.ucsd.edu](https://insight.ucsd.edu)
 
 # Contact
-[yingchoon@gmail.com](mailto:yingchoon@gmail.com)
+PI Ying Wu [yingchoon@gmail.com](mailto:yingchoon@gmail.com)
 
 # Participating Labs
 
