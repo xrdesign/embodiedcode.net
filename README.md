@@ -1,3 +1,4 @@
+![Image](assets/xrdesign_logo.png)
 # Embodied Code
 
 The increasing sophistication and availability of Augmented and Virtual Reality
