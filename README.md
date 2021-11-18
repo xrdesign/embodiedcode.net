@@ -1,9 +1,3 @@
-<style type="text/css">
-  header {
-    float: none;
-  }
-</style>
-
 # Embodied Code
 
 The increasing sophistication and availability of Augmented and Virtual Reality
