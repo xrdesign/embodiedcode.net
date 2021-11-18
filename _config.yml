@@ -8,4 +8,4 @@ theme: jekyll-theme-minimal
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: "Embodied Code"
-permalink: /studies
+# permalink: /studies
