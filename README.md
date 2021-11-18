@@ -39,6 +39,6 @@ PI Ying Wu [yingchoon@gmail.com](mailto:yingchoon@gmail.com)
 
 [insight.ucsd.edu](http://insight.ucsd.edu) | [imagination.ucsd.edu](http://imagination.ucsd.edu) | [ubicomp.ucsd.edu](http://ubicomp.ucsd.edu/) | [cohab-lab.net](http://cohab-lab.net)
 
----
+# Support
 
 This work is supported by the National Science Foundation under [Grant #2017042](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
