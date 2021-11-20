@@ -4,9 +4,9 @@
 The increasing sophistication and availability of Augmented and Virtual Reality
 (AR/VR) technologies wield the potential to transform how we teach and learn computational
 concepts and coding. This project develops a platform for creative coding in virtual
-and augmented reality. The Embodied Coding Environment (ECE) is a node-based system developed on the
+and augmented reality. The Embodied Coding Environment (ECE) is a node-based system developed in the
 Unity game engine. It is conceptualized as a merged digital/physical workspace where spatial
-representations of code, the artwork that is the output of the code, and user editing histories are
+representations of code, the visual outputs of the code, and user editing histories are
 co-located in a virtual 3D space.
 
 It has been theorized that learners’ abilities to understand and reason about functions,
