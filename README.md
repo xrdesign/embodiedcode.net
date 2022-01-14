@@ -48,8 +48,12 @@ Demonstration of the Whiteboard and Gestural interface from the UCSD Design Inno
 [Coming Soon]
 
 # Workshops, Presentations, Papers
-- Workshop: [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md) ICER 2021, Saturday August 14, 2021
-- Video: [_Embodied Coding in Augmented Reality_](https://videohall.com/p/2000), 2021 NSF STEM for All Video Showcase
+
+- Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives, CSEDU 2022 (paper, under review)
+- San Diego Computer Science Teachers Association, November 18, 2021 (demo)
+- UCSD Design Innovation Building Dedication, November 18, 2021 (demo)
+- [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md) ICER 2021, Saturday August 14, 2021 (workshop)
+- [_Embodied Coding in Augmented Reality_](https://videohall.com/p/2000), 2021 NSF STEM for All Video Showcase (video)
 - Poster: 13th International Conference on Computer Supported Education, ACM CSEDU 2021, 23-25 April, 2021
 - Study: [_Spring Break Research Experience_](sbre/README.md), UC San Diego, March 2021
 
