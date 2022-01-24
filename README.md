@@ -25,26 +25,6 @@ learning to code become a more intuitive process.
 </div>
 
 January 2022 Video Documentation for CHI22. Video by Timothy Wood.
-
-
-<!-- 
-
-<div class="embed-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oZYu1BHwKpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-Demonstration from the [SD CSTA](https://csta.ucsd.edu/) Happy Hour, November 18, 2021, featuring Timothy Wood.
-
-<div class="embed-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-QucxZofqvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-Demonstration of the Whiteboard and Gestural interface from the UCSD Design Innovation Building dedication November 18, 2021, featuring Tommy Sharkey.
-
-<div class="embed-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2Dbk7BSQOII?t=2176" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- -->
  
 # Tools
 
