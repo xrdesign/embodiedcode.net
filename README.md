@@ -37,7 +37,7 @@ January 2022 Video Documentation for CHI22. Video by Timothy Wood.
 - [UCSD Design Innovation Building Dedication](https://www.youtube.com/watch?v=-QucxZofqvs), November 18, 2021 (demo)
 - [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md) ICER 2021, Saturday August 14, 2021 (workshop)
 - [_Embodied Coding in Augmented Reality_](https://videohall.com/p/2000), 2021 NSF STEM for All Video Showcase (video)
-- Poster: 13th International Conference on Computer Supported Education, ACM CSEDU 2021, 23-25 April, 2021
+- "How are computational concepts learned and taught? A thematic analysis study informing the design of an Augmented Reality coding platform", 13th International Conference on Computer Supported Education, ACM CSEDU 2021, 23-25 April, 2021 (poster and abstract)
 - Study: [_Spring Break Research Experience_](sbre/README.md), UC San Diego, March 2021
 
 # Team
