@@ -24,7 +24,7 @@ learning to code become a more intuitive process.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX-uoOPfDg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-January 2022 Video Documentation for CHI22. Video by Timothy Wood.
+January 2022 Video Documentation for CHI22 submission. Video by Timothy Wood.
  
 # Tools
 
