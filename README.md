@@ -31,13 +31,13 @@ January 2022 Video Documentation for CHI22 submission. Video by Timothy Wood.
 [Coming Soon]
 
 # Workshops, Presentations, Papers
-- "An Immersive Environment for Embodied Code", CHI Interactions, CHI22 - ACM CHI Conference on Human Factors in Computing Systems (workshop and paper)
-- "Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives", CSEDU 2022 - 14th International Conference on Computer Supported Education (paper)
+- "An Immersive Environment for Embodied Code", Interactions Program, ACM Conference on Human Factors in Computing Systems, CHI22 (workshop and paper)
+- "Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives", 14th International Conference on Computer Supported Education, CSEDU 2022 (paper)
 - [San Diego Computer Science Teachers Association](https://www.youtube.com/watch?v=oZYu1BHwKpI), November 18, 2021 (demo)
 - [UCSD Design Innovation Building Dedication](https://www.youtube.com/watch?v=-QucxZofqvs), November 18, 2021 (demo)
-- [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md) ICER 2021 - 17th annual ACM International Computing Education Research, Saturday August 14, 2021 (workshop)
+- [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md) 17th annual ACM International Computing Education Research Conference, ICER 2021, Saturday August 14, 2021 (workshop)
 - [_Embodied Coding in Augmented Reality_](https://videohall.com/p/2000), 2021 NSF STEM for All Video Showcase (video)
-- "How are computational concepts learned and taught? A thematic analysis study informing the design of an Augmented Reality coding platform", 13th International Conference on Computer Supported Education, ACM CSEDU 2021, 23-25 April, 2021 (poster and abstract)
+- "How are computational concepts learned and taught? A thematic analysis study informing the design of an Augmented Reality coding platform", 13th International Conference on Computer Supported Education, CSEDU 2021, 23-25 April, 2021 (poster and abstract)
 - Study: [_Spring Break Research Experience_](sbre/README.md), UC San Diego, March 2021
 
 # Team
