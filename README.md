@@ -31,7 +31,7 @@ January 2022 Video Documentation for CHI22 submission. Video by Timothy Wood.
 [Coming Soon]
 
 # Workshops, Presentations, Papers
-- "An Immersive Environment for Embodied Code", CHI Interactions, CHI22 (workshop and demo)
+- "An Immersive Environment for Embodied Code", CHI Interactions, CHI22 (workshop and paper)
 - "Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives", CSEDU 2022 (paper)
 - [San Diego Computer Science Teachers Association](https://www.youtube.com/watch?v=oZYu1BHwKpI), November 18, 2021 (demo)
 - [UCSD Design Innovation Building Dedication](https://www.youtube.com/watch?v=-QucxZofqvs), November 18, 2021 (demo)
