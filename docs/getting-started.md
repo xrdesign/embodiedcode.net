@@ -24,12 +24,16 @@ Follow [this guide](https://smartglasseshub.com/enable-developer-mode-on-quest/)
 ## 3. Launch the App
 
 1. In the Quest 2 headset, open the Application Drawer
-2. In the top right, there is a drop down menu that allows you to filter your applications. By default it is set to "All Applications". This is misleading. Click the dropdown, and filter by "unlisted" or "unregistered" sources.
-3. Select the EmbodiedCoding application and it will launch.
+2. In the top right, there is a drop down menu that allows you to filter your applications. By default it is set to "All Applications". This is misleading. Click the dropdown, and filter by "Uknown Sources".
+3. Select the `EmbodiedCode` application and it will launch.
 
-You are now running the Embodied Coding system.
+![image](https://user-images.githubusercontent.com/1598545/158479952-7beac691-5eb6-49aa-8c8e-7fce0ed747b0.png)
+
+You are now running the Embodied Code system.
 
 # Using the Embodied Coding Environment
 
-[built-in tutorial system coming soon. Follow the introductory tutorial]
+Start the app and follow the introductory tutorial. Click "yes".
+
+![image](https://user-images.githubusercontent.com/1598545/158480098-b497faa8-5f45-4354-b996-db34f65cf7fe.png)
 
