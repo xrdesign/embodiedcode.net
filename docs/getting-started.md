@@ -35,5 +35,5 @@ You are now running the Embodied Code system.
 
 Start the app and follow the introductory tutorial. Click "yes".
 
-![image](https://user-images.githubusercontent.com/1598545/158480098-b497faa8-5f45-4354-b996-db34f65cf7fe.png)
+![image](https://user-images.githubusercontent.com/1598545/158480305-1e9010cf-8dc9-4a37-a34a-b15a1ad84521.png)
 
