@@ -28,7 +28,7 @@ January 2022 Video Documentation for CHI22 Interactivity. Video by Timothy Wood.
  
 # Tools
 
-[Coming Soon]
+Obtain an APK from the project developers. Follow the [Getting Started instructions](docs/README.md). 
 
 # Workshops, Presentations, Papers
 - "An Immersive Environment for Embodied Code", Interactivity, 2022 ACM Conference on Human Factors in Computing Systems, CHI'22 (workshop and paper)
