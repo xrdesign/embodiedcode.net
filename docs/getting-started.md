@@ -43,11 +43,11 @@ This tutorial will walk you through making a node (`object_cubes`) and UI elemen
 
 ## Popcorn Example
 
-To load an intermediate level example, click "Load Scene":
+To continue to an intermediate level example, click "Load Scene":
 
 <img src="https://user-images.githubusercontent.com/1598545/158601807-7b5b33ae-7854-4c17-9d8a-8cb48f4e852b.png" width=400>
 
-And you should see the Popcorn example. Exlore the different nodes and try to ascertain what the system is doing.
+You should see the Popcorn example. Exlore the different nodes and try to ascertain what the system is doing.
 
 <img src="https://user-images.githubusercontent.com/1598545/158602214-f66c4d8a-5754-4125-9c87-ced0674ede96.png" width=400>
 
