@@ -53,12 +53,12 @@ You should see the Popcorn example. Exlore the different nodes and try to ascert
 
 # Streaming Your Headset
 
-You can stream your Quest 2 viewport to a compatible web browser (Chrome, Edge, or similar). Make sure your browser and headset are on the same wifi network. 
+You can stream your Quest 2 view to a compatible web browser (Chrome, Edge, or similar). Make sure your browser and headset are on the same wifi network. 
 
 In your browser, go to [https://www.oculus.com/casting](https://www.oculus.com/casting):
 
 <img src="https://user-images.githubusercontent.com/1598545/158608445-ed2104b3-843e-47d7-8011-46a8d4ca8432.png" width=400>
 
-On your headset, press the Oculus Button, go to __Sharing__, select __Cast__, select __Computer__, and your stream should show up in the browser!
+On your Quest 2, press the Oculus Button, go to __Sharing__, select __Cast__, select __Computer__, and your stream should show up in the browser!
 
 You can share this in Zoom or similar via screenshare.
