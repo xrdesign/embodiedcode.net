@@ -34,8 +34,21 @@ You are now running the Embodied Code system.
 
 # Using the Embodied Coding Environment
 
+## Intro Tutorial
 For a brief introduction, start the app and follow the introductory tutorial. Click "yes". 
 
 <img src="https://user-images.githubusercontent.com/1598545/158480305-1e9010cf-8dc9-4a37-a34a-b15a1ad84521.png" width=400>
 
 This tutorial will walk you through making a node (`object_cubes`) and UI element (`ui_slider_integer`), connecting them up, and using these to create in-game geometry you can manipulate with physics.
+
+## Popcorn Example
+
+To load an intermediate level example, click "Load Scene":
+
+<img src="https://user-images.githubusercontent.com/1598545/158601807-7b5b33ae-7854-4c17-9d8a-8cb48f4e852b.png" width=400>
+
+And you should see the Popcorn example. Exlore the different nodes and try to ascertain what the system is doing.
+
+<img src="https://user-images.githubusercontent.com/1598545/158602214-f66c4d8a-5754-4125-9c87-ced0674ede96.png" width=400>
+
+2. In the top right, there is a drop down menu that allows you to filter your applications. By default it is set to "All Applications". This is misleading. Click the dropdown, and filter by "Uknown Sources".
