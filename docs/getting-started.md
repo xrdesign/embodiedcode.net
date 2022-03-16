@@ -28,8 +28,7 @@ Follow [this guide](https://smartglasseshub.com/enable-developer-mode-on-quest/)
 2. In the top right, there is a drop down menu that allows you to filter your applications. By default it is set to "All Applications". This is misleading. Click the dropdown, and filter by "Uknown Sources".
    - <img src="https://user-images.githubusercontent.com/1598545/158492279-1fdd962e-fc7a-4a5f-af21-9677899fc6cd.png" width=400>
 3. Select the `EmbodiedCode` application and it will launch.
-
-<img src="https://user-images.githubusercontent.com/1598545/158479952-7beac691-5eb6-49aa-8c8e-7fce0ed747b0.png" width=400>
+   - <img src="https://user-images.githubusercontent.com/1598545/158479952-7beac691-5eb6-49aa-8c8e-7fce0ed747b0.png" width=400>
 
 You are now running the Embodied Code system.
 
