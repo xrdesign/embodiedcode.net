@@ -14,7 +14,7 @@ Follow [this guide](https://smartglasseshub.com/enable-developer-mode-on-quest/)
 
 ## Install our App
 
-1. ~Download the latest release [here](https://github.com/xrdesign/EmbodiedCoding/releases/) or~ obtain an APK from the dev team.
+1. <strike>Download the latest release [here](https://github.com/xrdesign/EmbodiedCoding/releases/) or</strike> obtain an APK from the dev team.
 2. Download [SideQuest](https://sidequestvr.com/download) - SideQuest is an application that lets you install applications that have not been registered with Oculus and checked for viruses. Only sideload applications from people that you trust, as this bypasses a lot of security.
 3. Connect your headset to your computer. You headset should ask you if you want to allow USB Debugging on the device you just connected. Click Allow/Always. SideQuest should now show a green icon in the top left indicating that it has successfully connected.
    What you have done is allowed your computer (and SideQuest which runs on your computer) to control your headset, install software, uninstall software, read your files, etc.
