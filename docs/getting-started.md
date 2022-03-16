@@ -51,4 +51,4 @@ You should see the Popcorn example. Exlore the different nodes and try to ascert
 
 <img src="https://user-images.githubusercontent.com/1598545/158602214-f66c4d8a-5754-4125-9c87-ced0674ede96.png" width=400>
 
-2. In the top right, there is a drop down menu that allows you to filter your applications. By default it is set to "All Applications". This is misleading. Click the dropdown, and filter by "Uknown Sources".
+In the top right, there is a drop down menu that allows you to filter your applications. By default it is set to "All Applications". This is misleading. Click the dropdown, and filter by "Uknown Sources".
