@@ -34,6 +34,6 @@ You are now running the Embodied Code system.
 
 # Using the Embodied Coding Environment
 
-For a brief introduction, start the app and follow the introductory tutorial. Click "yes".
+For a brief introduction, start the app and follow the introductory tutorial. Click "yes". This will walk you through making a node (`object_cubes`) and UI element (`ui_slider_integer`), connecting them up, and using these to create in-game geometry.
 
 <img src="https://user-images.githubusercontent.com/1598545/158480305-1e9010cf-8dc9-4a37-a34a-b15a1ad84521.png" width=400>
