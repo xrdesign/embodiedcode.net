@@ -23,7 +23,7 @@ Follow [this guide](https://smartglasseshub.com/enable-developer-mode-on-quest/)
 
 ## Launch the App
 
-1. In the Quest 2 headset, open the Application Drawer (grid of squares)
+1. In the Quest 2 home screen, open the Apps Drawer (grid of squares)
    - <img src="https://user-images.githubusercontent.com/1598545/158492175-92632975-d85c-4b3c-ba7c-67e7985b88b2.png" width=400>
 2. In the top right, there is a drop down menu that allows you to filter your applications. By default it is set to "All Applications". This is misleading. Click the dropdown, and filter by "Uknown Sources".
    - <img src="https://user-images.githubusercontent.com/1598545/158492279-1fdd962e-fc7a-4a5f-af21-9677899fc6cd.png" width=400>
