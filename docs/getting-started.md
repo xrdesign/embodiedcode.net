@@ -55,7 +55,7 @@ You should see the Popcorn example. Exlore the different nodes and try to ascert
 
 You can stream your Quest 2 viewport to a compatible web browser (Chrome, Edge, or similar). Make sure your browser and headset are on the same wifi network. 
 
-In your browser, go to `https://www.oculus.com/casting`:
+In your browser, go to [https://www.oculus.com/casting](https://www.oculus.com/casting):
 
 <img src="https://user-images.githubusercontent.com/1598545/158608445-ed2104b3-843e-47d7-8011-46a8d4ca8432.png" width=400>
 
