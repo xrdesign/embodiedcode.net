@@ -26,9 +26,9 @@ learning to code become a more intuitive process.
 
 January 2022 Video Documentation for CHI22 Interactivity. Video by Timothy Wood.
  
-# Tools
+# Getting Started
 
-[Getting Started](docs/getting-started.md)
+Follow our [Getting Started Guide](docs/getting-started.md) 
 
 # Workshops, Presentations, Papers
 - "An Immersive Environment for Embodied Code", Interactivity, 2022 ACM Conference on Human Factors in Computing Systems, CHI'22 (workshop and paper)
