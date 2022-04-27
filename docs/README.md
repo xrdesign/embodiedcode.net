@@ -11,6 +11,7 @@
 - Popcorn: `ex_popcorn`
 - Popcorn Part: `ex_popparty`
 - Tower of Cubes: `ex_tower`
+- Drone: `ex_drone`
 
 # Coding Challenges
 - coming soon!
