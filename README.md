@@ -1,5 +1,7 @@
+[Overview](#overview) | [Documentation](docs/) | [Video](#video) | [Publications](#workshops-publications-papers) | [Team](#team)
+
 ![Image](assets/xrdesign_logo.png)
-# Description
+# Overview
 
 The increasing sophistication and availability of Augmented and Virtual Reality
 (AR/VR) technologies wield the potential to transform how we teach and learn computational
