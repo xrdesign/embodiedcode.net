@@ -19,17 +19,17 @@ functions by throwing paper airplanes. Our long-term research aims center on the
 how a coding platform that supports these types of embodied conceptual phenomena can make
 learning to code become a more intuitive process.
 
+# Getting Started
+
+Follow our [Getting Started Guide](docs/getting-started.md) to run the app on you headset. 
+
 # Video
 <div class="embed-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jX-uoOPfDg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-January 2022 Video Documentation for CHI22 Interactivity. Video by Timothy Wood.
+Video Documentation for CHI22 Interactivity. Video by Timothy Wood.
  
-# Getting Started
-
-Follow our [Getting Started Guide](docs/getting-started.md) 
-
 # Workshops, Presentations, Papers
 - "An Immersive Environment for Embodied Code", Interactivity, 2022 ACM Conference on Human Factors in Computing Systems, CHI'22 (workshop and paper)
 - "Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives", 14th International Conference on Computer Supported Education, CSEDU 2022 (paper)
