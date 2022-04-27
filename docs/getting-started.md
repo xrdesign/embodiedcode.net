@@ -1,7 +1,17 @@
 # Getting Started (non-developer)
 
-Getting started with Embodied Code on the Quest 2 headset.
+Getting started with Embodied Code on the Quest 2 headset:
+- [Enabling Developer Mode](#put-your-headset-in-developer-mode)
+- [Installing App](#install-our-app)
+- [Launch the App](#launch-the-app)
 
+Using the Enmbodied Coding Environment:
+- [Intro Tutorial](#intro-tutorial)
+- [Popcorn Example](#popcorn-example)
+
+Sharing your expereince: 
+- [Streaming your Headset](#streaming-your-headset)
+- Getting Help - email us or join our discord!
 
 ## Put your headset in developer mode
 
