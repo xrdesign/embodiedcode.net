@@ -5,13 +5,23 @@
 
 # Example Scenes
 
-- Gesture: `ex_gesture`
-- Gravity: `ex_gravity`
-- Gravity Box: `ex_gravbox`
-- Popcorn: `ex_popcorn`
-- Popcorn Part: `ex_popparty`
-- Tower of Cubes: `ex_tower`
-- Drone: `ex_drone`
+## Gesture
+`load ex_gesture`
+
+## Gravity
+`load ex_gravity`
+
+## Gravity Box
+`load ex_gravbox`
+
+## Popcorn
+`load ex_popcorn`
+
+## Tower of Cubes
+`load ex_tower`
+
+## Drone
+`load ex_drone`
 
 # Coding Challenges
-- coming soon!
+- [coming soon]
