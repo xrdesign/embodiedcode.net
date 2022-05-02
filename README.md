@@ -34,7 +34,7 @@ Video Documentation for CHI22 Interactivity. Video by Timothy Wood.
  
 # Workshops, Presentations, Papers
 - "An Immersive Environment for Embodied Code", 2022 ACM Conference on Human Factors in Computing Systems, CHI'22 ([interactivity workshop](https://programs.sigchi.org/chi/2022/program/content/72166) and [extended abstract](https://dl.acm.org/doi/abs/10.1145/3491101.3519896))
-- "Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives", 14th International Conference on Computer Supported Education, CSEDU 2022 (paper)
+- ["Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives"](https://www.scitepress.org/PublicationsDetail.aspx?ID=OhB4jK63WSU=&t=1), 14th International Conference on Computer Supported Education, CSEDU 2022 (paper)
 - [San Diego Computer Science Teachers Association](https://www.youtube.com/watch?v=oZYu1BHwKpI), November 18, 2021 (demo)
 - [UCSD Design Innovation Building Dedication](https://www.youtube.com/watch?v=-QucxZofqvs), November 18, 2021 (demo)
 - [_Exploring Virtual Reality and Embodied Computational Reasoning_](icer/README.md) 17th annual ACM International Computing Education Research Conference, ICER 2021, Saturday August 14, 2021 (workshop)
