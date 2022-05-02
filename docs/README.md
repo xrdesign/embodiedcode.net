@@ -15,21 +15,43 @@ To load the scene: `load ex_gesture`
 
 ## Gravity
 
+Game objects move upwards (low gravity) until they encounter a height threshold, and when they fall with high gravity.
+
 <img src="images/gravity01.jpg" width=400> <img src="images/gravity02.jpg" width=400>
 
 To load the scene: `load ex_gravity`
 
 ## Gravity Box
-`load ex_gravbox`
+
+Define lower gravity within a box. When objects hit the bounds of the box, normal gravity is restored.
+
+<img src="images/gravbox01.jpg">
+
+To load the scene: `load ex_gravbox`
 
 ## Popcorn
-`load ex_popcorn`
+
+Create a pile of game objects. Set a timer which periodically launches one of those objects with a random upwards velocity. ("pop!")
+
+<img src="images/popcorn01.jpg">
+
+To load the scene: `load ex_popcorn`
 
 ## Tower of Cubes
-`load ex_tower`
+
+Use sliders to create a wall of cubes (_n_ cubes, in _m_ columns). Random forces ("wind") or user ineraction cause the objects to topple.
+
+<img src="images/tower01.jpg">
+
+To load the scene: `load ex_tower`
 
 ## Drone
-`load ex_drone`
+
+Inside of a 3d modeled corridor, gestures define two possible paths for a drone. Send the drone to navigate the hallway.
+
+<img src="images/drone01.jpg"> <img src="images/drone02.jpg">
+
+To load the scene: `load ex_drone`
 
 # Coding Challenges
 - [coming soon]
