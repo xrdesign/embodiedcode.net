@@ -14,7 +14,10 @@ Demonstrates creating a gesture in space, and using that as a signal to drive th
 To load the scene: `load ex_gesture`
 
 ## Gravity
-`load ex_gravity`
+
+<img src="images/gravity01.jpg" width=400> <img src="images/gravity02.jpg" width=400>
+
+To load the scene: `load ex_gravity`
 
 ## Gravity Box
 `load ex_gravbox`
