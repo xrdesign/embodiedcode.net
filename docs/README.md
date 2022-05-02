@@ -6,9 +6,12 @@
 # Example Scenes
 
 ## Gesture
-`load ex_gesture`
+
+Demonstrates creating a gesture in space, and using that as a signal to drive the motion of a game object.
 
 <img src="images/gesture01.jpg" width=400> <img src="images/gesture02.jpg" width=400>
+
+To load the scene: `load ex_gesture`
 
 ## Gravity
 `load ex_gravity`
