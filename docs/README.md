@@ -8,9 +8,7 @@
 ## Gesture
 `load ex_gesture`
 
-<img src="images/gesture01.jpg" width=400>
-
-<img src="images/gesture02.jpg" width=400>
+<img src="images/gesture01.jpg" width=400> <img src="images/gesture02.jpg" width=400>
 
 ## Gravity
 `load ex_gravity`
