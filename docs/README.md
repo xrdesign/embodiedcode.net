@@ -25,7 +25,7 @@ To load the scene: `load ex_gravity`
 
 Define lower gravity within a box. When objects hit the bounds of the box, normal gravity is restored.
 
-<img src="images/gravbox01.jpg">
+<img src="images/gravbox01.jpg" width=400>
 
 To load the scene: `load ex_gravbox`
 
@@ -33,7 +33,7 @@ To load the scene: `load ex_gravbox`
 
 Create a pile of game objects. Set a timer which periodically launches one of those objects with a random upwards velocity. ("pop!")
 
-<img src="images/popcorn01.jpg">
+<img src="images/popcorn01.jpg" width=400>
 
 To load the scene: `load ex_popcorn`
 
@@ -41,7 +41,7 @@ To load the scene: `load ex_popcorn`
 
 Use sliders to create a wall of cubes (_n_ cubes, in _m_ columns). Random forces ("wind") or user ineraction cause the objects to topple.
 
-<img src="images/tower01.jpg">
+<img src="images/tower01.jpg" width=400>
 
 To load the scene: `load ex_tower`
 
@@ -49,7 +49,7 @@ To load the scene: `load ex_tower`
 
 Inside of a 3d modeled corridor, gestures define two possible paths for a drone. Send the drone to navigate the hallway.
 
-<img src="images/drone01.jpg"> <img src="images/drone02.jpg">
+<img src="images/drone01.jpg" width=400> <img src="images/drone02.jpg" width=400>
 
 To load the scene: `load ex_drone`
 
