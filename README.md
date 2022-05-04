@@ -30,7 +30,7 @@ Follow our [Getting Started Guide](docs/getting-started.md) to run the app on yo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCPyu2tLzejeCatoMYptvxoBf4DRHbB_K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </div>
 
-Video Documentation for CHI22 Interactivity. Video by Timothy Wood.
+Video Documentation for CHI22 Interactivity. Videos by Timothy Wood and Tommy Sharkey.
  
 # Workshops, Presentations, Papers
 - "An Immersive Environment for Embodied Code", 2022 ACM Conference on Human Factors in Computing Systems, CHI'22 ([interactivity workshop](https://programs.sigchi.org/chi/2022/program/content/72166) and [extended abstract](https://dl.acm.org/doi/abs/10.1145/3491101.3519896))
