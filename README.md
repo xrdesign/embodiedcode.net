@@ -27,8 +27,8 @@ Follow our [Getting Started Guide](docs/getting-started.md) to run the app on yo
 
 # Video
 <div class="embed-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jX-uoOPfDg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCPyu2tLzejeCatoMYptvxoBf4DRHbB_K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
 
 Video Documentation for CHI22 Interactivity. Video by Timothy Wood.
  
