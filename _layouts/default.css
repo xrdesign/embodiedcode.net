@@ -1,0 +1,41 @@
+#markdown {
+    padding: 2em 2em 2em 2em;
+    max-width: 70em;
+}
+
+#markdown img {
+    max-width: 100%;
+    /* width: 100%; */
+}
+
+#markdown > p {
+    margin-bottom: 1em;
+}
+
+#markdown .embed-youtube {
+
+}
+
+/* h1, h2, h3, h4, h5, h6 {
+    margin-top: 1em;
+} */
+
+#markdown {
+    max-width: 60em;
+}
+
+#markdown ul {
+    padding-left: 3em;
+}
+
+
+
+.navbar {
+    padding-left: 3em;
+    padding-right: 1em;
+}
+
+/* #header li:first-child {
+    margin-right: 2em;
+    margin-left: 2em;
+} */

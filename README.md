@@ -1,5 +1,3 @@
-[Overview](#overview) | [Documentation](docs/) | [Video](#video) | [Publications](#workshops-presentations-papers) | [Team](#team)
-
 ![Image](assets/xrdesign_logo.png)
 # Overview
 
