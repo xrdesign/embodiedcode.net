@@ -45,7 +45,7 @@ Video Documentation for CHI22 Interactivity. Videos by Timothy Wood and Tommy Sh
 - Robert Twomey, co-PI [roberttwomey.com](https://roberttwomey.com)
 - Monica Sweet, Investigator [UCSD CREATE](https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation)
 - Timothy Wood, Postdoc [fishuyo.com](http://fishuyo.com/)
-- Tommy Sharkey, Grad Researcher [tlsharkey.com](https://www.tlsharkey.com/)
+- Tommy Sharkey, Graduate Researcher [tlsharkey.com](https://www.tlsharkey.com/)
 - Amy Eguchi, Investigator [UCSD EDS](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
 
 # Contact
