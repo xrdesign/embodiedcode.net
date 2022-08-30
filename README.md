@@ -55,7 +55,7 @@ To learn more, contact PI Ying Wu at [ycwu@ucsd.edu](mailto:ycwu@ucsd.edu)
 
 - [insight.ucsd.edu](https://insight.ucsd.edu)
 - [imagination.ucsd.edu](http://imagination.ucsd.edu)
-- [ubicomp.ucsd.edu](http://ubicomp.ucsd.edu/)
+- [hxi.ucsd.edu](http://hxi.ucsd.edu/)
 - [cohab-lab.net](http://cohab-lab.net)
 
 # Support
