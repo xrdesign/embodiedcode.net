@@ -3,6 +3,7 @@
 __Getting started with Embodied Code on the Quest 2 headset__:
 - [Enabling Developer Mode](#put-your-headset-in-developer-mode)
 - [Installing App](#install-our-app)
+- [Updating the App](#updating-the-app)
 - [Launch the App](#launch-the-app)
 
 __Using the Embodied Coding Environment__:
@@ -42,7 +43,7 @@ Follow [this guide](https://smartglasseshub.com/enable-developer-mode-on-quest/)
 
 You are now running the Embodied Code system.
 
-## Update App
+## Updating the app
 
 To update the app we will need to delete the current APK, and then copy the new APK. This assumes you have a copy of the APK downloaded from our website. 
 
