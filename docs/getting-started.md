@@ -42,6 +42,25 @@ Follow [this guide](https://smartglasseshub.com/enable-developer-mode-on-quest/)
 
 You are now running the Embodied Code system.
 
+## Update App
+
+To update the app we will need to delete the current APK, and then copy the new APK. This assumes you have a copy of the APK downloaded from our website. 
+
+### Delete the current APK
+1. Connect your device to your computer. In the headset, allow USB access to data. 
+   - <img src="https://user-images.githubusercontent.com/1598545/192549497-f3de9776-ddad-44d4-8b9e-7c0e39507a5f.png" width=200>
+2. In sidequest, click the _Currently Installed Apps_ button in the upper right. 
+   - <img width="388" alt="image" src="https://user-images.githubusercontent.com/1598545/192549674-949e9042-ba8c-44d8-ae5b-f7b62b93a26c.png">
+3. Under the list of apps, click the Gear icon next to **xrdesign.embodiedcode** to open up the app details
+   - <img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/192550152-b9f810bb-03f2-4fc8-b67d-68edd06c5dd6.png">
+4. Under **Manage App**, select **Uninstall App**
+   - <img width="157" alt="image" src="https://user-images.githubusercontent.com/1598545/192550284-0dad69f0-6b67-4745-825c-65210be226e0.png">
+
+### Install a new APK
+1. With your quest still connected, in Sidequest click the "Install APK from folder on your computer"
+   - <img width="390" alt="image" src="https://user-images.githubusercontent.com/1598545/192550705-1dffe838-4500-4776-9c7e-e393bf564035.png">
+2. Select the new APK you have downloaded above (likely devel.apk). And click install. 
+
 # Using the Embodied Coding Environment
 
 ## Intro Tutorial
