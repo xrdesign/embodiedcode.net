@@ -53,7 +53,7 @@ To update the app we will need to delete the current APK, and then copy the new 
 2. In sidequest, click the _Currently Installed Apps_ button in the upper right. 
    - <img width="388" alt="image" src="https://user-images.githubusercontent.com/1598545/192549674-949e9042-ba8c-44d8-ae5b-f7b62b93a26c.png">
 3. Under the list of apps, click the Gear icon next to **xrdesign.embodiedcode** to open up the app details
-   - <img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/192550152-b9f810bb-03f2-4fc8-b67d-68edd06c5dd6.png">
+   - <img width="48" alt="image" src="https://user-images.githubusercontent.com/1598545/192551535-b27f02e8-378f-4b4c-8c81-4a47a1292e6a.png">
 4. Under **Manage App**, select **Uninstall App**
    - <img width="157" alt="image" src="https://user-images.githubusercontent.com/1598545/192550284-0dad69f0-6b67-4745-825c-65210be226e0.png">
 
