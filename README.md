@@ -1,4 +1,4 @@
-[Overview](#overview) | [Documentation](docs/) | [Video](#video) | [Publications](#workshops-presentations-papers) | [Team](#team)
+[Overview](#overview) | [Documentation](docs/) | [Video](#video) | [Publications](#workshops-presentations-papers) | [Team](#team) | [App](https://app.embodiedcode.net)
 
 ![Image](assets/xrdesign_logo.png)
 # Overview
