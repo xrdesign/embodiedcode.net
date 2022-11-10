@@ -6,9 +6,11 @@ Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting
 
 # Reference
 
-## Extrusion Tool
+## Extrude Tool
 
-Put your text here. 
+[Put and image of the extrude tool here]
+
+[Documentation for the extrude tool](./extrude-tool.md)
 
 
 # Example Scenes
