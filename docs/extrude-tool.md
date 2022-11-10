@@ -1,6 +1,6 @@
 # Extrude Tool
 
-##Basics
+## Basics
 
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/82526625/201165844-87b018fe-5b88-4531-bb74-243f6fc87c9d.png">
 
@@ -24,7 +24,7 @@ Once the outline is finished, a dashed line will appear that controls the height
 Voila! You have successfully created a shape. Now, go have fun! 
 
 
-##Advanced
+## Advanced
 
 To Adjust Size/ Position:
   
