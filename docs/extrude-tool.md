@@ -10,7 +10,6 @@ First, go into the toolbox and select the Extrude tool with the L/R Touch Trigge
 
 Next, point with your controller and use the Left or Right Touch Trigger to create a purple line.
 
-
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/82526625/201167027-aff1e48e-4771-483a-b222-527bf317fbb8.png">
  
 Each time you press the trigger a new line will appear, which is connected to the previous one. Connect all of these lines to create a shape.
