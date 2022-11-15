@@ -8,7 +8,7 @@ Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting
 
 ## Extrude Tool
 
-![extrudepage](https://user-images.githubusercontent.com/82526625/201980860-83742b41-fe3a-4bbe-9569-a5c44b098958.jpg)
+![xrdesign embodiedcode-20221109-225253](https://user-images.githubusercontent.com/82526625/201981526-204be2bd-71b6-4214-9439-b23732d00bbf.jpg)
 
 [Documentation for the extrude tool](./extrude-tool.md)
 
