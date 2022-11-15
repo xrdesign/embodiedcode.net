@@ -21,7 +21,7 @@ Each time you press the trigger a new line will appear, which is connected to th
 
 Once the outline is finished, a dashed line will appear that controls the height of your object. It is dependent on the height of your Right Touch controller. Press the L/R Touch Trigger to finish your height adjustment. 
 
-<img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/82526625/201167657-acbef51c-2504-4603-ab0a-5fcd0336e80f.png">
+< alt="image" src="https://user-images.githubusercontent.com/82526625/201167657-acbef51c-2504-4603-ab0a-5fcd0336e80f.png">
  
 Voila! You have successfully created a shape. Now, go have fun! 
 
