@@ -8,9 +8,9 @@ Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting
 
 ## Extrude Tool
 
-![xrdesign embodiedcode-20221109-225253](https://user-images.githubusercontent.com/82526625/201981526-204be2bd-71b6-4214-9439-b23732d00bbf.jpg)
+![xrdesign embodiedcode-20221109-225253](https://user-images.githubusercontent.com/82526625/201984396-093217fc-e282-417a-ac36-a64db2f174b7.jpg)
 
-[Documentation for the extrude tool](./extrude-tool.md)
+[Documentation for the Extrude tool](./extrude-tool.md)
 
 
 # Example Scenes
