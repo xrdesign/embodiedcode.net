@@ -1,5 +1,8 @@
 # Extrude Tool
 
+- [Basics: How to extrude a shape](#basics)
+- [Advanced](#advanced)
+
 ## Basics
 
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/82526625/201165844-87b018fe-5b88-4531-bb74-243f6fc87c9d.png">
