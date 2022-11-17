@@ -1,6 +1,6 @@
-# Extrude Tool
+# Drawing and Annotations
 How to use the Extrude Tool in Embodied Code:
-- [Basics: Creating a Shape](#basics)
+- [Basics: Creating and Erasing Drawings](#basics)
 - [Advanced](#advanced)
 
 ## Basics: Creating a Shape
