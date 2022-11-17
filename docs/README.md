@@ -6,9 +6,13 @@ Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting
 
 # Reference
 
+##Coding Tool
+
 ## Extrude Tool
 
 <img src="https://user-images.githubusercontent.com/82526625/201984396-093217fc-e282-417a-ac36-a64db2f174b7.jpg" width=400>
+
+## Drawing Tool
 
 [Getting started with the Extrude Tool](./extrude-tool.md)
 
