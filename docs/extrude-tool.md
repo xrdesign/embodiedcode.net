@@ -5,7 +5,8 @@ How to use the Extrude Tool in Embodied Code:
 
 ## Basics: Creating a Shape
 
-<img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/82526625/201165844-87b018fe-5b88-4531-bb74-243f6fc87c9d.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/202514174-fe954ddd-1337-40c6-a391-26fb22d9cbd5.jpg">
+
 
 First, go into the toolbox and select the Extrude tool with the L/R Touch Trigger.
 
