@@ -37,11 +37,11 @@ Use the triggers to move and scale your drawing around your scene.
 
 Once a drawing is selected, you have the options of "group" "ungroup" "attach" "hide child nodes" and "show child nodes"
 
-<img width="400" alt="image" src="">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114027018/202611741-de06827b-1e10-4e46-9a57-8e2034fccda4.JPG">
 
 If you have two separate drawings, you can group them together as one object. 
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/114027018/202611741-de06827b-1e10-4e46-9a57-8e2034fccda4.JPG">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114027018/202612194-aa232314-703e-4dbb-8bb2-4b15d8091a68.JPG">
 
 You can attach code to a drawing and then chose "hide child nodes" to hide the code. This can be used to create an activity where you want the code to be hidden. 
 
