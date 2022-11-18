@@ -13,8 +13,8 @@ First, go into the toolbox and select the Draw tool with the right trigger. Keep
 
 Use the "A" button on your right controller or the "X" button on the left controller to draw.
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/202521309-a1cad196-dc58-4521-b187-c15adbbcaa4b.png">
- 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114027018/202604025-89e57d56-067e-43f2-ace4-20f3856ab031.jpeg">
+
 Use the "B" button on your right controller or the "Y" button on the left controller to erase your drawings.
 
 ## Advanced: Selecting, Grouping and Attaching
