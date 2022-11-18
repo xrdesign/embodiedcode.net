@@ -5,7 +5,7 @@ How to use the Extrude Tool in Embodied Code:
 
 ## Basics: Creating and Erasing Drawings
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/202520762-ad3cf677-02c1-43e9-abdc-6d7d6c9cdd0f.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114027018/202602976-88e10354-7a61-4535-87f1-abd2bed4c5a0.jpeg">
 
 First, go into the toolbox and select the Draw tool with the right trigger. Keep the toolbox open- if you close it you won't be able to use the draw tool.
 
