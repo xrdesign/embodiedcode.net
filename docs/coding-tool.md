@@ -33,25 +33,23 @@ While on the coding tool, hold both Oculus Grip Buttons to create a selection bo
 
 Select the objects, drawings, or nodes within the purple lines. 
 
-Once items are selected, a menu will pop up. This menu includes:
-- Group
-![131](https://user-images.githubusercontent.com/82526625/203217008-643bf511-9f56-4874-a0e4-1af2d39e5e09.jpg)
-
-- Ungroup
-![132](https://user-images.githubusercontent.com/82526625/203217037-84cc680c-3f5b-4fb1-93a3-328c9b529390.jpg)
-
-- Attach
-![133](https://user-images.githubusercontent.com/82526625/203217088-d038e725-a060-4b0f-9c24-f20180412ec5.jpg)
-
-- Show Child Nodes
-![135](https://user-images.githubusercontent.com/82526625/203217224-738067d9-2774-461d-bbe5-a5157f4d9741.jpg)
-
-- Hide Child Nodes
-![136](https://user-images.githubusercontent.com/82526625/203217243-a293e3c7-74e2-4635-be5a-7b6587aaa90e.jpg)
-
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203216624-525ba326-d3c9-4bee-8c1e-aea8006a2bec.jpg">
 
+Once items are selected, a menu will pop up. This menu includes:
+- Group
+
+- Ungroup
+
+- Attach
+
+- Show Child Nodes
+
+- Hide Child Nodes
+
+
 ## Search Bar
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203218973-721f8889-836b-4c6a-9a6c-487fca8e0bb7.png">
 
 Press the "A" button on the Right Oculus controller.
 
