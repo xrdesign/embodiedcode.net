@@ -47,7 +47,7 @@ Once items are selected, a menu will pop up. This menu includes:
 - Hide Child Nodes
 
 
-## Search Bar
+## Search
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203218973-721f8889-836b-4c6a-9a6c-487fca8e0bb7.png">
 
