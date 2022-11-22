@@ -45,6 +45,7 @@ Once items are selected, a menu will pop up. This menu includes:
 
 - Hide Child Nodes
 
+*For more information, visit the [Drawing Tool](./drawing-tool.md) instructions.*
 
 ## Search
 
