@@ -19,18 +19,16 @@ First, go into the toolbox and select the Coding tool with the L/R Touch Trigger
 
 Next, point with your controller at any object, button, node, or drawing. Then, press the Left or Right Touch Trigger.
 
-<img width="400" alt="image" src="">
-![122](https://user-images.githubusercontent.com/82526625/203227678-d2f71c93-78a0-4b90-b8d4-53582ec5199b.jpg)
 
 ### Option 2:
 
-<img width="400" alt="image" src="">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203227678-d2f71c93-78a0-4b90-b8d4-53582ec5199b.jpg">
 
 While on the coding tool, hold both Oculus Grip Buttons to create a selection box (purple lines).
 
 *Note: The size of the selection box is dependent upon the position of the Oculus contollers to the playspace.*
 
-<img width="400" alt="image" src="">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203227972-e2ab0745-97cc-4172-a93d-d2b2d6ab34f1.jpg">
 
 Select the objects, drawings, or nodes within the purple lines. 
 
