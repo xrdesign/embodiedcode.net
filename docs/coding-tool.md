@@ -59,7 +59,7 @@ A search bar will appear. Now, you can enter keywords, such as save, load, clear
 
 To Adjust Size/Position:
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/202521607-5598f2b0-df59-47bd-9e33-965364713fd9.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203229222-28375b20-1189-4a8e-b610-69aae6fa3979.jpg">
 
 Select an object/node with the selection button.
 
@@ -71,4 +71,4 @@ Use both selection tentacles (Both Touch Triggers) for position/size/rotation.
 
 To Grab an Object or Node:
 
-Use the Oculus Grip Buttons to grab or scale a object/node.
+Use the Oculus Grip Buttons to grab or scale an object/node.
