@@ -18,6 +18,8 @@ Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting
 
 ## Drawing Tool
 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/114027018/202611826-4d76db29-8cb5-4e43-b21a-2f703c9a1257.JPG">
+
 [Getting started with the Drawing Tool](./drawing-tool.md)
 
 
