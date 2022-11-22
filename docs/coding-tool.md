@@ -4,9 +4,8 @@ The Coding Tool is the most used tool in Embodied Code, so it is important to kn
 
 The Coding Tool in Embodied Code:
 - [Selection](#selection)
-- [Search Bar](#searchbar)
-- [Object Controls](#objectcontrols)
-- [Node Controls](#nodecontrols)
+- [Search](#search)
+- [Controls](#controls)
 
 ## Selection
 
@@ -36,14 +35,21 @@ Select the objects, drawings, or nodes within the purple lines.
 
 Once items are selected, a menu will pop up. This menu includes:
 - Group
+![131](https://user-images.githubusercontent.com/82526625/203217008-643bf511-9f56-4874-a0e4-1af2d39e5e09.jpg)
 
 - Ungroup
+![132](https://user-images.githubusercontent.com/82526625/203217037-84cc680c-3f5b-4fb1-93a3-328c9b529390.jpg)
 
 - Attach
+![133](https://user-images.githubusercontent.com/82526625/203217088-d038e725-a060-4b0f-9c24-f20180412ec5.jpg)
 
-- Hide Children
+- Show Child Nodes
+![135](https://user-images.githubusercontent.com/82526625/203217224-738067d9-2774-461d-bbe5-a5157f4d9741.jpg)
 
-_ Show Child
+- Hide Child Nodes
+![136](https://user-images.githubusercontent.com/82526625/203217243-a293e3c7-74e2-4635-be5a-7b6587aaa90e.jpg)
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203216624-525ba326-d3c9-4bee-8c1e-aea8006a2bec.jpg">
 
 ## Search Bar
 
@@ -51,7 +57,7 @@ Press the "A" button on the Right Oculus controller.
 
 A search bar will appear. Now, you can enter keywords, such as save, load, clear, etc., to control the coding environment with nodes, scenes, objects, etc.
 
-## Object Controls
+## Controls
 
 To Adjust Size/Position:
 
@@ -67,4 +73,4 @@ Use both selection tentacles (Both Touch Triggers) for position/size/rotation.
 
 To Grab an Object or Node:
 
-## Node Controls
+Use the Oculus Grip Buttons to grab or scale a object/node.
