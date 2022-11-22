@@ -4,9 +4,9 @@ The Coding Tool is the most used tool in Embodied Code, so it is important to kn
 
 The Coding Tool in Embodied Code:
 - [Selection](#selection)
-- [Search Bar](#search)
-- [Object Controls](#object)
-- [Node Controls](#node)
+- [Search Bar](#search bar)
+- [Object Controls](#object controls)
+- [Node Controls](#node controls)
 
 ## Selection
 
