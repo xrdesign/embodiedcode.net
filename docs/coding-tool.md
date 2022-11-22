@@ -52,7 +52,7 @@ Once items are selected, a menu will pop up. This menu includes:
 
 Press the "A" button on the Right Oculus controller.
 
-A search bar will appear. Now, you can enter keywords, such as save, load, clear, etc., to control the coding environment with nodes, scenes, objects, etc.
+A search bar will appear. Now, you can enter keywords, such as save, load, clear, etc., with the Oculus Touch Triggers to control the coding environment with nodes, scenes, objects, etc.
 
 ## Controls
 
