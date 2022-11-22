@@ -8,7 +8,7 @@ Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting
 
 ## Coding Tool
 
-[Getting started with the Extrude Tool](./coding-tool.md)
+[Getting started with the Coding Tool](./coding-tool.md)
 
 ## Extrude Tool
 
