@@ -12,7 +12,7 @@ The Coding Tool in Embodied Code:
 
 ### Option 1:
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/202520762-ad3cf677-02c1-43e9-abdc-6d7d6c9cdd0f.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/82526625/203212506-111842d5-0f52-42e3-9d53-55a0b6a639ae.jpg">
 
 First, go into the toolbox and select the Coding tool with the L/R Touch Trigger.
 
