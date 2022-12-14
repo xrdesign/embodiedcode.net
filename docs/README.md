@@ -24,6 +24,10 @@ Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting
 
 [Getting started with the Drawing Tool](./drawing-tool.md)
 
+## Gesture Tool
+
+[Getting started with the Gesture Tool](.gesture-tool.md)
+
 
 # Example Scenes
 
