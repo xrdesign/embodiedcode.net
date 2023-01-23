@@ -4,13 +4,6 @@
 
 Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting-started.md) tutorial to install the app on our headset and run the first tutorial. 
 
-# New Section for Yuzi
-
-![ex_controller_pos](https://user-images.githubusercontent.com/1598545/214132312-92c59ae8-9a00-40a8-92a2-9e3ea5c7cd80.jpg)
-
-<img src="https://user-images.githubusercontent.com/1598545/214132312-92c59ae8-9a00-40a8-92a2-9e3ea5c7cd80.jpg" width=400>
-
-
 # Reference
 
 ## Coding Tool
