@@ -71,6 +71,12 @@ For a brief introduction, start the app and follow the introductory tutorial. Cl
 
 This tutorial will walk you through making a node (`object_cubes`) and UI element (`ui_slider_integer`), connecting them up, and using these to create in-game geometry you can manipulate with physics.
 
+## Main Menu UI
+Press the menu button on your left controller to access the main menu. 
+Check out detailed decriptions for each section on [this page.](https://smartglasseshub.com/enable-developer-mode-on-quest/)
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/60211694/214137279-7e2eb886-e6f6-45dd-b9c3-a84e5abc74b8.png">
+
+
 ## Popcorn Example
 
 To continue to an intermediate level example, click "Load Scene":
