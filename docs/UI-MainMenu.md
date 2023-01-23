@@ -26,7 +26,7 @@ The load scene button allows you to save a scene you have created.
 
 ## User Account
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/60211694/214140596-78722c0a-36fb-41e7-bccc-5d260143b4fe.png">
-Sign in to view all the nodes and examples. If you don't have an account yet, create your account on [this page](http://app.embodiedcode.net/users/login) 
+Sign in to view all the nodes and examples. If you don't have an account yet, create your account on [this page](http://app.embodiedcode.net/users/login)
 
 ## Settings
 
