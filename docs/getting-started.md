@@ -73,7 +73,7 @@ This tutorial will walk you through making a node (`object_cubes`) and UI elemen
 
 ## Main Menu UI
 Press the menu button on your left controller to access the main menu. 
-Check out detailed decriptions for each section on [this page.](https://smartglasseshub.com/enable-developer-mode-on-quest/)
+Check out detailed decriptions for each section on [this page.](UI-MainMenu.md)
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/60211694/214137279-7e2eb886-e6f6-45dd-b9c3-a84e5abc74b8.png">
 
 
