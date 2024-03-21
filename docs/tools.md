@@ -4,6 +4,6 @@
 
 ## Main Menu
 
-<img src="mainmenu01.png" width=400>
+<img src="images/mainmenu01.png" width=400>
 
 [Learn more about the main menu here.](docs/UI-MainMenu.md)
