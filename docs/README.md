@@ -1,4 +1,4 @@
-[Overview](overview/) | [Documentation](README.md) | [Web Editor](http://app.embodiedcode.net/users/login)
+[Overview](main/README.md) | [Documentation](README.md) | [Web Editor](http://app.embodiedcode.net/users/login)
 
 # Embodied Code Documentation
 
