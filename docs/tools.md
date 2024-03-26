@@ -10,7 +10,6 @@ This page takes you through all of the tools within the Embodied Code Environmen
 [Learn more about the main menu here.](docs/UI-MainMenu.md)
 
 # Toolbox
-[Code Mode](#Toolbox)
 <img src="images/tools01.jpeg" width=400>
 
 In each of the different modes in the toolbox, the controller buttons have different functions. Press B on the right controller, or Y on the left controller to bring up the toolbox. You have the option to [code](#Code-Mode), [draw,](#Draw-Mode) or [extrude.](#Extrude-Mode)
