@@ -7,7 +7,7 @@ This page takes you through all of the tools within the Embodied Code Environmen
 
 <img src="images/mainmenu01.png" width=400>
 
-[Learn more about the main menu here.](docs/UI-MainMenu.md)
+[Learn more about the main menu here.](UI-MainMenu.md)
 
 # Toolbox
 <img src="images/tools01.jpeg" width=400>
