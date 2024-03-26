@@ -12,13 +12,13 @@ Ready to try the first tutorial? Follow this [walk-through video](https://drive.
 
 # Tools
 
-<img src="images/tools01.jpeg" width=400>
+<img src="docs/images/tools01.jpeg" width=400>
 
 [Learn about all of the tools here](./coding-tool.md)
 
 # Examples
 
-<img src="images/tower01.jpg" width=400> <img src="images/gravity01.jpg" width=400>
+<img src="docs/images/tower01.jpg" width=400> <img src="docs/images/gravity01.jpg" width=400>
 
 [Look through the example scenes and challenges here](./coding-tool.md)
 
