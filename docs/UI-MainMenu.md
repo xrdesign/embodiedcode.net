@@ -20,11 +20,11 @@ In Node Library you have access to all the nodes and their sample codes.
 
 ## Load Scene
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/60211694/214140420-53d4dba9-ed31-4a7b-ae7d-062f23a82676.png">
-The load scene button allows you to load a scene you have saved.
+The load scene button allows you to load a scene you or others have saved.
 
 ## Save Scene
 <img width="251" alt="image" src="https://user-images.githubusercontent.com/60211694/214140468-5167fd11-2cb5-4768-9417-632cf4903c55.png">
-The load scene button allows you to save a scene you have created.
+The load scene button allows you to save a scene you have created. Type in your scene name to save.
 
 ## User Account
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/60211694/214140596-78722c0a-36fb-41e7-bccc-5d260143b4fe.png">
