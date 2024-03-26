@@ -14,7 +14,7 @@ Ready to try the first tutorial? Follow this [walk-through video](https://drive.
 
 <img src="docs/images/tools01.jpeg" width=400>
 
-[Learn about all of the tools here](./coding-tool.md)
+[Learn about all of the tools here](docs/tools.md)
 
 # Examples
 
