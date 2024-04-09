@@ -1,11 +1,14 @@
 [Overview](README.md) | [Documentation](documentation.md) | [Web Editor](http://app.embodiedcode.net/users/login)
 
-# Examples and Tutorials
+# Tutorials and Activities
 
 <img src="images/gravbox01.jpg" width=400>
 
+There are many premade examples and tutorials within the Embodied Code platform. These are made by developers and other users, available for anyone to use and experience. Tutorials range from a basic introduction to complex coding. 
+
 ## Tutorial Hub
 <img src="images/hub_01.jpeg" width=400>
+Search for "rsc_main_hub" in the load scenes tab of the main menu. This pulls up a hub where all the tutorials and activities are organized. Do the tutorials in order for a comprehensive learning experience, or skip around to different activities as needed. 
 
 # Getting Started
 <img src="images/hub_02.jpeg" width=400>
@@ -22,7 +25,6 @@ Learn about conditional statements and how they work in Embodied Code. Featuring
 # Lists and Loops
 <img src="images/hub_05.jpeg" width=400>
 Learn about lists and loops and how they work in Embodied Code. Featuring tutorials on Lists, For Each Loops (by item and by index), Spawning and Destroying multiple objects, While Loop, and a Lists and Loops activity. 
-
 
 # Alter Your Environment
 <img src="images/hub_07.jpeg" width=400>
