@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting-started.md) tutorial to install the app on our headset and run the first tutorial. 
+Follow our [Getting started with Embodied Code on the Quest 2 headset](docs/getting-started.md) tutorial to install the app on our headset and run the first tutorial. 
 
 Ready to try the first tutorial? Follow this introductory tutorial: 
 <div class="embed-youtube">
