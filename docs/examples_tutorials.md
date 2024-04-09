@@ -5,31 +5,30 @@
 <img src="images/gravbox01.jpg" width=400>
 
 ## Tutorial Hub
-image
+<img src="images/hub_01.jpeg" width=400>
 
-#Getting Started
-image
-details
+# Getting Started
+<img src="images/hub_02.jpeg" width=400>
+Learn the basics of the Embodied Code platform featuring an intro tutorial and controller tutorial.
 
-#Object Manipulation
-image
-details
+# Object Manipulation
+<img src="images/hub_03.jpeg" width=400>
+Learn how to manipulate objects in Embodied Code. Featuring tutorials on Set Color, Set Transform, Set Kinematics, Spawn and Destroy, and an Object Manipulation activity. 
 
-#Conditionals
-image
-details
+# Conditionals
+<img src="images/hub_04.jpeg" width=400>
+Learn about conditional statements and how they work in Embodied Code. Featuring tutorials a Conditional Statements tutorial and activity. 
 
-#Lists and Loops
-image
-details
-
-#Other Activities
-image 
-details
-
-#Alter Your Environment
-image
-details
+# Lists and Loops
+<img src="images/hub_05.jpeg" width=400>
+Learn about lists and loops and how they work in Embodied Code. Featuring tutorials on Lists, For Each Loops (by item and by index), Spawning and Destroying multiple objects, While Loop, and a Lists and Loops activity. 
 
 
-## Example Scenes
+# Alter Your Environment
+<img src="images/hub_07.jpeg" width=400>
+Learn how to change the environment you work in. Featuring tutorials on how to alter the sky, ground, light, and gravity, how to load objects, audio, textures and a skybox. 
+
+# Other Activities
+<img src="images/hub_06.jpeg" width=400>
+Load other examples and activities like Popcorn, Tower, Gravity Box, Scoreboard and Bowling. 
+
