@@ -27,7 +27,7 @@ Follow our [Getting Started Guide](docs/getting-started.md) to run the app on yo
 
 # Video
 <div class="embed-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jFYTFTFXay4?si=1-03dwj-XP4iyoH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVKId7Qmf_4?si=evDF5UjZ9kJ08b0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  </div>
 
 Video Documentation for SIGCSE 2024. Video by Reid Brockmeier and Kylie Muller.
