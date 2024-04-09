@@ -31,8 +31,10 @@ The load scene button allows you to save a scene you have created. Type in your 
 Sign in to view all the nodes and examples. If you don't have an account yet, create your account on [this page](http://app.embodiedcode.net/users/login)
 
 ## Settings
+Coming Soon
 
 ## Degub Log
+Coming Soon
 
 ## Quit
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/60211694/214140685-bb1e505d-2e08-4601-855d-49b86487c171.png">
