@@ -8,7 +8,11 @@
 
 Follow our [Getting started with Embodied Code on the Quest 2 headset](./getting-started.md) tutorial to install the app on our headset and run the first tutorial. 
 
-Ready to try the first tutorial? Follow this [walk-through video](https://drive.google.com/file/d/10FexZffkHACagAJA0WFbe5Wexv3NoRdY/preview) to familiarize yourself with the basics of Embodied Code. 
+Ready to try the first tutorial? Follow this introductory tutorial: 
+<div class="embed-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFYTFTFXay4?si=1CUXyhJNjbfUYkWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </div>
+Video by Reid Brockmeier
 
 # Tools
 
