@@ -24,6 +24,6 @@ Video by Reid Brockmeier
 
 <img src="docs/images/tower01.jpg" width=400> <img src="docs/images/gravity01.jpg" width=400>
 
-[Look through the example scenes and challenges here](./coding-tool.md)
+[Look through the tutorials and activities here](docs/tutorials_activies.md)
 
 
