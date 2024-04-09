@@ -20,7 +20,7 @@ Video by Reid Brockmeier
 
 [Learn about all of the tools here](docs/tools.md)
 
-# Examples
+# Tutorials and Activities
 
 <img src="docs/images/tower01.jpg" width=400> <img src="docs/images/gravity01.jpg" width=400>
 
