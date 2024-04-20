@@ -33,6 +33,7 @@ Follow our [Getting Started Guide](docs/getting-started.md) to run the app on yo
 Video Documentation for SIGCSE 2024. Video by Reid Brockmeier and Kylie Muller.
  
 # Workshops, Presentations, Papers
+- Lay, R.; Bhutada, R.; Lobo, A.; Twomey, R.; Eguchi, A.; Wu, Y.; “Embodied Code: Creative Coding in Virtual Reality”, SIGCSE TS 2024 (55th ACM Technical Symposium on Computer Science Education)
 - Wu, Y. C., Sharkey, T., and Wood, T. (2023). “Designing the embodied coding environment: A platform inspired by educators and learners.” (https://circls.org/partnerships-for-change) CIRCLS Rapid Community Report
 - "An Immersive Environment for Embodied Code", 2022 ACM Conference on Human Factors in Computing Systems, CHI'22 ([interactivity workshop](https://programs.sigchi.org/chi/2022/program/content/72166) and [extended abstract](https://dl.acm.org/doi/abs/10.1145/3491101.3519896))
 - ["Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives"](https://www.scitepress.org/PublicationsDetail.aspx?ID=OhB4jK63WSU=&t=1), 14th International Conference on Computer Supported Education, CSEDU 2022 (paper)
