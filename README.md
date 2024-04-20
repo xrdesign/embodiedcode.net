@@ -33,6 +33,7 @@ Follow our [Getting Started Guide](docs/getting-started.md) to run the app on yo
 Video Documentation for SIGCSE 2024. Video by Reid Brockmeier and Kylie Muller.
  
 # Workshops, Presentations, Papers
+- Wu, Y. C., Sharkey, T., and Wood, T. (2023). “Designing the embodied coding environment: A platform inspired by educators and learners.” (https://circls.org/partnerships-for-change) CIRCLS Rapid Community Report
 - "An Immersive Environment for Embodied Code", 2022 ACM Conference on Human Factors in Computing Systems, CHI'22 ([interactivity workshop](https://programs.sigchi.org/chi/2022/program/content/72166) and [extended abstract](https://dl.acm.org/doi/abs/10.1145/3491101.3519896))
 - ["Need Finding for an Embodied Coding Platform: Educators’ Practices and Perspectives"](https://www.scitepress.org/PublicationsDetail.aspx?ID=OhB4jK63WSU=&t=1), 14th International Conference on Computer Supported Education, CSEDU 2022 (paper)
 - [San Diego Computer Science Teachers Association](https://www.youtube.com/watch?v=oZYu1BHwKpI), November 18, 2021 (demo)
@@ -46,9 +47,16 @@ Video Documentation for SIGCSE 2024. Video by Reid Brockmeier and Kylie Muller.
 - Ying Wu, PI [insight.ucsd.edu](https://insight.ucsd.edu)
 - Robert Twomey, co-PI [roberttwomey.com](https://roberttwomey.com)
 - Monica Sweet, Investigator [UCSD CREATE](https://create.ucsd.edu/about/people/index.html#Research-&-Evaluation)
+- Amy Eguchi, Investigator [UCSD EDS](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
+- Rhea Bhutada
+- Alejandro Lobo
+- Ryan Lay
+- Reid Brockmeier
+- Kylie Muller
+
+# Alumni
 - Timothy Wood, Postdoc [fishuyo.com](http://fishuyo.com/)
 - Tommy Sharkey, Grad Researcher [tlsharkey.com](https://www.tlsharkey.com/)
-- Amy Eguchi, Investigator [UCSD EDS](https://eds.ucsd.edu/discover/people/faculty/eguchi.html)
 
 # Contact
 To learn more, contact PI Ying Wu at [ycwu@ucsd.edu](mailto:ycwu@ucsd.edu)
